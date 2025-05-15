@@ -1,5 +1,5 @@
 *
-!eslint.config.js
+!eslint.config.ts
 !index.html
 !package-lock.json
 !package.json
@@ -7,4 +7,4 @@
 !run_tests.sh
 !src
 !test
-!vite.config.js
+!vite.config.ts
